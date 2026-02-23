@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Manual software tester currently looking for job opportunities.<br>I'm currently upskilling from manual to automation while learning python scripting and selenium<br>
+Results-driven Software Test Engineer with 1.5 years hands-on experience in manual testing In-Vehicle Infotainment (IVI) systems at KPIT Technologies, specializing in the SDLC of Honda Japan’s Global IVI Program. Expert in executing the full STLC, from Requirement Traceability (RTM) and Test Case Design to Defect Management in Jira. Currently pivoting towards Test Automation by building a strong foundation in Python and Selenium WebDriver. My goal is to leverage deep Manual Testing expertise to engineer robust automation suites that enhance software delivery speed and quality.
 
 
 ## 🌐 Socials:
